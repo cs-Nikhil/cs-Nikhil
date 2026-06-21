@@ -1,122 +1,74 @@
-<!-- Banner -->
+````md
+<!-- ========================= Banner ========================= -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Nikhil%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20Problem%20Solver&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Nikhil%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=58"/>
 </p>
 
 <div align="center">
 
 # 👋 Welcome to my GitHub
 
-### Final Year Computer Science Student | Java Developer | Full Stack Enthusiast
+### Final Year Computer Science Student • Java Developer • Full Stack Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+Backend+Developer;React+Frontend+Developer;DSA+Enthusiast;Machine+Learning+Learner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;Java+Backend+Developer;React+Frontend+Developer;DSA+Enthusiast;Machine+Learning+Learner"/>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhil-kumar-yadav-097304378/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/cs-Nikhil/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/nikhilyadav666w)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:231fa04c88@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-| | |
+| 🚀 | |
 |:---|:---|
 | 🎓 **Education** | **B.Tech CSE** • Vignan University |
 | 💼 **Goal** | Software Development Engineer |
-| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| ⚛️ **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 🌱 **Learning** | Spring Boot • System Design • Machine Learning |
-| 🎯 **Focus** | Backend Development • DSA • Full Stack |
-| 🤝 **Open To** | Internship & Full-Time SDE Opportunities |
-```
+| 💻 **Languages** | Java • Python • C • JavaScript |
+| 🌐 **Frontend** | HTML • CSS • React |
+| 🗄️ **Database** | MySQL |
+| 🛠️ **Tools** | Git • GitHub • VS Code |
+| 🌱 **Learning** | Spring Boot • Machine Learning • System Design |
+| 🎯 **Interested In** | Backend Development • Full Stack • DSA |
+| 🤝 **Open To** | Internship & Full-Time Opportunities |
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,mysql,git,github,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,mysql"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</div>
+</p>
 
 ---
 
-# 💻 Current Focus
+# 🎯 Current Focus
 
-✔ Solving Data Structures & Algorithms
-
-✔ Building Java Projects
-
-✔ Learning Spring Boot
-
-✔ Exploring Machine Learning
-
-✔ Preparing for SDE Roles
+| ✔️ Currently Working On | 🚀 Next Goal |
+|:------------------------|:-------------|
+| Solving DSA Daily | Crack Product-Based Companies |
+| Java Backend Projects | Learn Spring Boot |
+| Machine Learning | Build Real-world Applications |
+| React Development | Master System Design |
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🏥 Hospital Management System
-
-A complete hospital management platform for appointments, doctors, patients, and records.
-
-</td>
-
-<td width="50%">
-
-### 🚦 Traffic Controller
-
-Traffic signal simulation using Python with intelligent scheduling logic.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🏫 IQAC Management
-
-Academic management portal for Internal Quality Assurance Cell.
-
-</td>
-
-<td>
-
-### 📚 Book Management
-
-Book inventory system with issue/return functionality.
-
-</td>
-
-</tr>
-
-</table>
+| Project | Description |
+|:--------|:------------|
+| 🏥 **Hospital Management System** | Patient management, doctor appointments and hospital records. |
+| 🚦 **Traffic Controller** | Intelligent traffic signal simulation using Python. |
+| 🏫 **IQAC Management System** | Academic management portal for Internal Quality Assurance Cell. |
+| 📚 **Book Management System** | Book inventory management application. |
 
 ---
 
@@ -148,42 +100,38 @@ Book inventory system with issue/return functionality.
 
 ---
 
-# 🏆 Achievements
-
-- 🎓 Final Year B.Tech CSE Student
-- 💻 Java Developer
-- 📚 DSA Enthusiast
-- 🚀 Full Stack Developer
-- 🤖 Exploring Machine Learning
-
----
-
 # 🌱 Currently Learning
 
-```
-Spring Boot
-REST APIs
-System Design
-Machine Learning
-Docker
+```text
+✔ Spring Boot
+✔ REST APIs
+✔ System Design
+✔ Machine Learning
+✔ Docker
 ```
 
 ---
 
-# 🤝 Connect With Me
+# 💡 Quote
+
+> **"Consistency beats intensity. Small improvements every day lead to big achievements."**
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="YOUR_GFG">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -194,11 +142,19 @@ Docker
 
 ---
 
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=cs-Nikhil&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+---
+
 <div align="center">
 
-### 💡 "Great software is built one commit at a time."
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+*"Code. Learn. Build. Repeat."*
 
 </div>
 
@@ -207,3 +163,4 @@ Docker
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
 
 </p>
+````
