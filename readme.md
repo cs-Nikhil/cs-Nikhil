@@ -1,4 +1,4 @@
-````md
+
 <!-- ========================= Banner ========================= -->
 
 <p align="center">
@@ -163,4 +163,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>
 
 </p>
-````
