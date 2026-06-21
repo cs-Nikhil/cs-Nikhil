@@ -1,5 +1,4 @@
 
-<!-- ========================= Banner ========================= -->
 
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:38BDF8&text=Nikhil%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20|%20Java%20Developer%20|%20Problem%20Solver&descAlignY=58"/>
