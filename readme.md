@@ -18,31 +18,18 @@
 
 # 🚀 About Me
 
-```java
-public class Nikhil {
+## 👨‍💻 About Me
 
-    String role = "Software Engineer";
-
-    String education = "B.Tech CSE @ Vignan University";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "C",
-        "JavaScript"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Data Structures",
-        "Machine Learning",
-        "System Design",
-        "Open Source"
-    };
-
-    boolean openForInternship = true;
-
-}
+| | |
+|:---|:---|
+| 🎓 **Education** | **B.Tech CSE** • Vignan University |
+| 💼 **Goal** | Software Development Engineer |
+| 💻 **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| ⚛️ **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 🌱 **Learning** | Spring Boot • System Design • Machine Learning |
+| 🎯 **Focus** | Backend Development • DSA • Full Stack |
+| 🤝 **Open To** | Internship & Full-Time SDE Opportunities |
 ```
 
 ---
